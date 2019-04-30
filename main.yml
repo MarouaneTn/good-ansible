@@ -10,11 +10,6 @@
 #   Unclear names
 #    good use of variables
 
-- hosts: jumpbox
-  gather_facts: true
-  roles:
-  - name: osp-facts
-# Setup front-end load balancer tier
 
 
 - name: setup load-balancer tier

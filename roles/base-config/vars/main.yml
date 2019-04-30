@@ -1,3 +1,4 @@
 ---
 # vars file for app
 tomcat_web_root: /usr/share/tomcat/webapps/ROOT
+own_repo_path: http://admin.na.shared.opentlc.com/repos/ocp/3.6/
